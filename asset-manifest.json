@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/socialapp/static/css/main.f6074ab2.css",
+    "main.js": "/socialapp/static/js/main.7456f62e.js",
+    "static/js/787.8556befe.chunk.js": "/socialapp/static/js/787.8556befe.chunk.js",
+    "static/media/newpost.svg": "/socialapp/static/media/newpost.b31ed27b9ec3aedc45fabd411ec14bb7.svg",
+    "static/media/camera.svg": "/socialapp/static/media/camera.8d1266125ae70bc17d2ca2b47a82a78b.svg",
+    "index.html": "/socialapp/index.html",
+    "static/media/activity.svg": "/socialapp/static/media/activity.0af6fa73cd01bc1e9cc4bf3975979f23.svg",
+    "static/media/profile.svg": "/socialapp/static/media/profile.d4840b8f19e1a9e0f2faa623d303839a.svg",
+    "static/media/home.svg": "/socialapp/static/media/home.70dd67e37c1a0bb576afd4a7516fe1ab.svg",
+    "static/media/explore.svg": "/socialapp/static/media/explore.8639ccd3798ee50477a871d9c231ef28.svg",
+    "static/media/message.svg": "/socialapp/static/media/message.2ff15da1bafced08afb56fb7406d39d9.svg",
+    "main.f6074ab2.css.map": "/socialapp/static/css/main.f6074ab2.css.map",
+    "main.7456f62e.js.map": "/socialapp/static/js/main.7456f62e.js.map",
+    "787.8556befe.chunk.js.map": "/socialapp/static/js/787.8556befe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6074ab2.css",
+    "static/js/main.7456f62e.js"
+  ]
+}
